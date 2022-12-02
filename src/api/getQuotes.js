@@ -1,9 +1,9 @@
 import axios from "axios";
 
-async function getCharacters() {
+async function getEpisodes() {
     try {
         const resp = await axios({
-            url: "https://breakingbadapi.com/api/characters",
+            url: `https://breakingbadapi.com/api/quotes`,
             method: "get",
         });
         return resp.data;
@@ -11,4 +11,4 @@ async function getCharacters() {
         console.log(error);
     }
 }
-export default getCharacters;
+export default getEpisodes;

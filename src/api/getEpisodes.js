@@ -3,7 +3,7 @@ import axios from "axios";
 async function getEpisodes() {
     try {
         const resp = await axios({
-            url: `${process.env.BREAKING_BAD_API}/episodes`,
+            url: `https://breakingbadapi.com/api/episodes`,
             method: "get",
         });
         return resp.data;
