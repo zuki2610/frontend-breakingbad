@@ -10,7 +10,7 @@ export default function Header() {
         <br />
         <Link to='/episodios'>Episodios</Link>
         <br />
-        <Link to='/frases-celebres'>Frases Celebres</Link>
+        <Link to='/citas'>Citas</Link>
         <br />
         <Link to='/muertes'>Muertes</Link>
     </nav>

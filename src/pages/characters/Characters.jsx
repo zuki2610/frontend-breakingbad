@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import getCharacters from "../../api/getCharacters";
 
-export default function Personajes() {
+export default function Characters() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -15,10 +15,11 @@ export default function Personajes() {
   }, []);
   return (
     <div className="layoutpage custom">
-      <div className="character">
+      <div className="characters">
         {data.map((character) => (
           <div key={character.char_id}>
-            <img src={character.img} alt="" srcset="" />
+            <img src={character.img} alt={character.name} />
+            <p>Char id: {character.char_id}</p>
             <p>Name: {character.name}</p>
             <p>Nickname: {character.nickname}</p>
             <p>Birthday {character.birthday}</p>

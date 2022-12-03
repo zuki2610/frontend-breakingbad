@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import getEpisodes from "../../api/getEpisodes";
 
-export default function Episodios() {
+export default function Episodes() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -15,14 +15,14 @@ export default function Episodios() {
   }, []);
   return (
     <div className="layoutpage custom">
-      <div className="episopdes">
-        {data.map((episopde) => (
-          <div key={episopde.episode_id}>
-            <p>ID: {episopde.episode_id}</p>
-            <p>Title: {episopde.title}</p>
-            <p>Season: {episopde.season}</p>
-            <p>Air date: {episopde.air_date}</p>
-            <p>Characters; {episopde.characters.toString()}</p>
+      <div className="episodes">
+        {data.map((episode) => (
+          <div key={episode.episode_id}>
+            <p>ID: {episode.episode_id}</p>
+            <p>Title: {episode.title}</p>
+            <p>Season: {episode.season}</p>
+            <p>Air date: {episode.air_date}</p>
+            <p>Characters; {episode.characters.toString()}</p>
           </div>
         ))}
       </div>

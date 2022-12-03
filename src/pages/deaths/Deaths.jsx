@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import getDeaths from "../../api/getDeaths";
 
-export default function Muertes() {
+export default function Deaths() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ export default function Muertes() {
     <div className="layoutpage custom">
       <div className="deaths">
         {data.map((death) => (
-          <div key={death.death}>
+          <div key={death.death_id}>
             <p>Death id: {death.death_id}</p>
             <p>Death: {death.death}</p>
             <p>Cause: {death.cause}</p>
