@@ -14,8 +14,8 @@ export default function Quotes() {
     showData();
   }, []);
   return (
-    <div className="layoutpage custom">
-      <div className="quotes">
+    <div className="layoutpage custom text-light">
+      <div className="quotes text-light">
         {data.map((quote) => (
           <div key={quote.quote_id}>
             <p>ID: {quote.quote_id}</p>

@@ -15,7 +15,7 @@ export default function Episodes() {
   }, []);
   return (
     <div className="layoutpage custom">
-      <div className="episodes">
+      <div className="episodes text-light">
         {data.map((episode) => (
           <div key={episode.episode_id}>
             <p>ID: {episode.episode_id}</p>
