@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import getQuotes from "../../api/getQuotes";
 
-export default function FrasesCelebres() {
+export default function Quotes() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
