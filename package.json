@@ -1,5 +1,5 @@
 {
-  "homepage":"https://zuki2610.github.io/frontend-breakingbad/",
+  "homepage": "https://zuki2610.github.io/frontend-breakingbad/",
   "name": "frontend-breakingbad",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +14,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
     "react-scripts": "5.0.1",
+    "sass": "^1.56.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
