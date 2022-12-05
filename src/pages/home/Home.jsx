@@ -16,8 +16,8 @@ export default function Home() {
           citas, y las mas dolorosas muertes podrás revivirlas aqui!
         </p>
         <div className="px-5">
-          <div className="px-5">
-            <img src={bbimg} alt="Breaking Bad" className="img-fluid" />
+          <div className="px-5 d-flex">
+            
           </div>
         </div>
         <div className="px-5"></div>
