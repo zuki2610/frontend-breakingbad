@@ -15,19 +15,19 @@ export default function Header() {
         <div className='collapse navbar-collapse' id='navbarSupportedContent'>
           <ul className='navbar-nav'>
             <li className='nav-item'>
-              <Link className='nav-link' aria-current='page' to='/'>Home</Link>
+              <Link className='nav-link' aria-current='page' to='/frontend-breakingbad/'>Home</Link>
             </li>
             <li className="nav-item">
-              <Link className='nav-link' to='/personajes'>Personajes</Link>
+              <Link className='nav-link' to='/frontend-breakingbad/personajes'>Personajes</Link>
             </li>
             <li className="nav-item">
-              <Link className='nav-link' to='/episodios'>Episodios</Link>
+              <Link className='nav-link' to='/frontend-breakingbad/episodios'>Episodios</Link>
             </li>
             <li className="nav-item">
-              <Link className='nav-link' to='/citas'>Citas</Link>
+              <Link className='nav-link' to='/frontend-breakingbad/citas'>Citas</Link>
             </li>
             <li className="nav-item">
-              <Link className='nav-link' to='/muertes'>Muertes</Link>
+              <Link className='nav-link' to='/frontend-breakingbad/muertes'>Muertes</Link>
             </li>
           </ul>
         </div>

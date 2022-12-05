@@ -2,7 +2,7 @@ import React from "react";
 import bbimg from "../../assets/img/bbimg.jpg";
 export default function Home() {
   return (
-    <div className="p-5">
+    <div className="p-5" style={{height: '80vh'}}>
       Home
       <div className="pb-5">
         <h1 className="fs-1 text-light text-center">

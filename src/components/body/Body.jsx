@@ -19,10 +19,11 @@ export default function Body() {
         <Header />
         <main style={{ backgroundImage: `url(${background})`, backgroundRepeat: `no-repeat`, backgroundAttachment: `fixed`, backgroundSize: `cover` }}>
           <Routes>
-              <Route path='/personajes' element={<Characters />} />
-              <Route path='/episodios' element={<Episodes />} />
-              <Route path='/citas' element={<Quotes />} />
-              <Route path='/muertes' element={<Deaths />} />
+              <Route path='/frontend-breakingbad/personajes' element={<Characters />} />
+              <Route path='/frontend-breakingbad/episodios' element={<Episodes />} />
+              <Route path='/frontend-breakingbad/citas' element={<Quotes />} />
+              <Route path='/frontend-breakingbad/muertes' element={<Deaths />} />
+              <Route path='/frontend-breakingbad/' element={<Home />} />
               <Route path='/' element={<Home />} />
               <Route path='*' element={<NotFound />} />
           </Routes>
