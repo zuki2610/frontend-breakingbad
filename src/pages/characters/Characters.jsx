@@ -20,7 +20,7 @@ export default function Characters() {
           <div key={character.char_id} className="card border border-success border-5 m-3 text-success" style={{ maxWidth: "540px" }}>
             <div className="row">
               <div className="col-md-4 align-middle text-success">
-                <img src={character.img} className="img-fluid" style={{height: '32vh', width: '29vw'}} alt={character.name} />
+                <img src={character.img} className="img-fluid" style={{height: '32vh', width: '32vw'}} alt={character.name} />
               </div>
               <div className="col-md-8 text-success">
                 <div className="card-body text-success">
