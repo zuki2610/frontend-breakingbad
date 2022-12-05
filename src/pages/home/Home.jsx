@@ -3,11 +3,10 @@ import bbimg from "../../assets/img/bbimg.jpg";
 export default function Home() {
   return (
     <div className="p-5" style={{height: '80vh'}}>
-      Home
       <div className="pb-5">
         <h1 className="fs-1 text-light text-center">
           El mejor site para el fandom de Breaking Bad esta aquí...!!!
-        </h1>6
+        </h1>
       </div>
       <div className="px-1">
         <p className="text-light text-center fs-3">

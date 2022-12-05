@@ -34,7 +34,7 @@ export default function Characters() {
                   character.status === "Deceased" ? "Fallecido" :
                   character.status
                   }</p>
-                  <p className="card-text"><strong>Ocupación:</strong> {character.occupation}</p>
+                  <p className="card-text"><strong>Ocupación:</strong> {character.occupation.toString()}</p>
                 </div>
               </div>
             </div>
