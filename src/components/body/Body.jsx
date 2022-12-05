@@ -1,7 +1,6 @@
 import React from 'react'
+import './Body.scss';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-
-import background from "../../assets/img/bg.jpg";
 
 import Header from '../header/Header'
 import Footer from '../footer/Footer'
@@ -17,7 +16,7 @@ export default function Body() {
   return (
     <BrowserRouter>
         <Header />
-        <main style={{ backgroundImage: `url(${background})`, backgroundRepeat: `no-repeat`, backgroundAttachment: `fixed`, backgroundSize: `cover` }}>
+        <main>
           <Routes>
               <Route path='/frontend-breakingbad/personajes' element={<Characters />} />
               <Route path='/frontend-breakingbad/episodios' element={<Episodes />} />

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import './Quotes.scss';
 import getQuotes from "../../api/getQuotes";
 
 export default function Quotes() {
@@ -14,14 +15,19 @@ export default function Quotes() {
     showData();
   }, []);
   return (
-    <div className="layoutpage custom text-light">
-      <div className="quotes text-light">
+    <div className="container">
+      <div className="quotes pt-2 d-flex flex-wrap justify-content-around">
         {data.map((quote) => (
-          <div key={quote.quote_id}>
-            <p>ID: {quote.quote_id}</p>
-            <p>Quote: {quote.quote}</p>
-            <p>Author: {quote.author}</p>
-            <p>Series: {quote.series}</p>
+          <div key={quote.quote_id} className="card border border-success border-5 m-3 text-success">
+            <div className="card-body">
+              <blockquote className="blockquote mb-0">
+                <div className="blockquote-icon bg-success">
+                  <i className="bi bi-quote text-white"></i>
+                </div>
+                <p>"{quote.quote}"</p>
+                <footer className="blockquote-footer"><small>{quote.author} in <cite title="Source Title">{quote.series}</cite></small></footer>
+              </blockquote>
+            </div>
           </div>
         ))}
       </div>
