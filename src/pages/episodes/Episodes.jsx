@@ -24,9 +24,9 @@ export default function Episodes() {
                 <div className="card-body-icon bg-success">
                   <strong className="text-white">#{episode.episode_id}</strong>
                 </div>
-                <h5 className="card-title"><span className="badge text-bg-dark">Temp. {episode.season}</span> {episode.title}</h5>
+                <h5 className="card-title"><span className="badge text-bg-dark">Temp. {episode.season} Ep. {episode.episode}</span> {episode.title}</h5>
                 <p className="card-text mb-1"><strong>Fecha al Aire:</strong> {episode.air_date}</p>
-                <p className="card-text"><strong>Personajes:</strong> {episode.characters.toString()}</p>
+                <p className="card-text"><strong>Resumen:</strong> {episode.summary}</p>
               </div>
             </div>
           </div>
