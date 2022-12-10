@@ -26,9 +26,11 @@ export default function Header() {
             <li className="nav-item">
               <Link className='nav-link' to='/frontend-breakingbad/citas'>Citas</Link>
             </li>
+            {/*             
             <li className="nav-item">
               <Link className='nav-link' to='/frontend-breakingbad/muertes'>Muertes</Link>
-            </li>
+            </li> 
+            */}
           </ul>
         </div>
       </div>
