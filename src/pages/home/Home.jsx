@@ -1,5 +1,4 @@
 import React from "react";
-import bbimg from "../../assets/img/bbimg.jpg";
 export default function Home() {
   return (
     <div className="p-5" style={{height: '80vh'}}>
