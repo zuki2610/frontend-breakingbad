@@ -1,0 +1,21 @@
+.img-container { 
+    height: 80vh;
+}
+h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgb(85, 135, 106);
+    text-align: center;
+    padding-top: 5vh;
+    margin-bottom: 5vh;
+}
+.img {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 25%;
+    box-shadow: 0vh 0vh 15vh 0vh #c8c8c8;
+
+}

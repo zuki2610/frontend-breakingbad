@@ -1,0 +1,26 @@
+/*media queris for mobile*/
+@media (max-width: 440px) {
+    .card {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        border-radius: 1rem;
+        background-color: rgb(48, 62, 52);
+    }
+    .row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-fluid {
+        width: 100%;
+        object-fit: cover;
+        margin-left: 25%;
+        margin-top: 3vh;
+        border-radius: 1rem;
+        box-shadow: 0vh 0vh 9vh 0vh #c8c8c8;
+    }
+
+}

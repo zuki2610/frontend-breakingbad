@@ -1,0 +1,21 @@
+.imghome {
+    display: flex;
+    justify-content: center;
+}
+
+.hometop {
+    box-shadow: 0vh 0vh 15vh 0vh #c8c8c8;
+    border-radius: 1rem;
+    height: 32vh;
+    object-fit: cover;
+}
+
+/*media queris for mobile*/
+@media (max-width: 440px) {
+    .hometop {
+        box-shadow: 0vh 0vh 15vh 0vh #c8c8c8;
+        border-radius: 1rem;
+        height: 20vh;
+        object-fit: cover;
+    }
+}
