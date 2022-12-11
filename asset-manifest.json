@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/frontend-breakingbad/static/css/main.c2cab247.css",
-    "main.js": "/frontend-breakingbad/static/js/main.706b5136.js",
+    "main.css": "/frontend-breakingbad/static/css/main.dc3b43d4.css",
+    "main.js": "/frontend-breakingbad/static/js/main.bd5c7f54.js",
+    "static/media/home2.jpg": "/frontend-breakingbad/static/media/home2.b5c4572548eed9e1d10e.jpg",
+    "static/media/bootstrap-icons.woff?": "/frontend-breakingbad/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/frontend-breakingbad/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/bg.jpg": "/frontend-breakingbad/static/media/bg.7fdca0732e1a4d941bb0.jpg",
-    "static/media/bbimg.jpg": "/frontend-breakingbad/static/media/bbimg.a1410a0e2b2240c90d87.jpg",
     "static/media/logo.svg": "/frontend-breakingbad/static/media/logo.0f9b6e901d17382f37947e5cbbd6d499.svg",
+    "static/media/404img.jpg": "/frontend-breakingbad/static/media/404img.611a2cba9ccbbe23a4be.jpg",
     "index.html": "/frontend-breakingbad/index.html",
-    "main.c2cab247.css.map": "/frontend-breakingbad/static/css/main.c2cab247.css.map",
-    "main.706b5136.js.map": "/frontend-breakingbad/static/js/main.706b5136.js.map"
+    "main.dc3b43d4.css.map": "/frontend-breakingbad/static/css/main.dc3b43d4.css.map",
+    "main.bd5c7f54.js.map": "/frontend-breakingbad/static/js/main.bd5c7f54.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.706b5136.js"
+    "static/css/main.dc3b43d4.css",
+    "static/js/main.bd5c7f54.js"
   ]
 }

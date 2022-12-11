@@ -1,0 +1,560 @@
+[
+    {
+        "episode_id": 1,
+        "title": "Pilot",
+        "season": "1",
+        "air_date": "01-20-2008",
+        "summary": "Diagnosed with terminal lung cancer, chemistry teacher Walter White teams up with former student Jesse Pinkman to cook and sell crystal meth.",
+        "episode": "1",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 2,
+        "title": "Cat's in the Bag...",
+        "season": "1",
+        "air_date": "01-27-2008",
+        "summary": "After their first drug deal goes terribly wrong, Walt and Jesse are forced to deal with a corpse and a prisoner. Meanwhile, Skyler grows suspicious of Walt's activities.",
+        "episode": "2",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 3,
+        "title": "...And the Bag's in the River",
+        "season": "1",
+        "air_date": "02-10-2008",
+        "summary": "Walt and Jesse clean up after the bathtub incident before Walt decides what course of action to take with their prisoner Krazy-8.",
+        "episode": "3",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 4,
+        "title": "Cancer Man",
+        "season": "1",
+        "air_date": "02-17-2008",
+        "summary": "Walt tells the rest of his family about his cancer. Jesse tries to make amends with his own parents.",
+        "episode": "4",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 5,
+        "title": "Gray Matter",
+        "season": "1",
+        "air_date": "02-24-2008",
+        "summary": "Walt rejects everyone who tries to help him with the cancer. Jesse tries his best to create Walt's meth, with the help of an old friend.",
+        "episode": "5",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 6,
+        "title": "Crazy Handful of Nothin'",
+        "season": "1",
+        "air_date": "03-02-2008",
+        "summary": "With the side effects and cost of his treatment mounting, Walt demands that Jesse finds a wholesaler to buy their drugs - which lands him in trouble.",
+        "episode": "6",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 7,
+        "title": "A No-Rough-Stuff-Type Deal",
+        "season": "1",
+        "air_date": "03-09-2008",
+        "summary": "Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need are not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.",
+        "episode": "7",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 8,
+        "title": "Seven Thirty-Seven",
+        "season": "2",
+        "air_date": "03-08-2009",
+        "summary": "Walt and Jesse realize how dire their situation is. They must come up with a plan to kill Tuco before Tuco kills them first.",
+        "episode": "1",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 9,
+        "title": "Grilled",
+        "season": "2",
+        "air_date": "03-15-2009",
+        "summary": "Walt's disappearance is met with investigation by both his wife and Hank, as Tuco Salamanca intends to leave town with his kidnapped cooks.",
+        "episode": "2",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 10,
+        "title": "Bit by a Dead Bee",
+        "season": "2",
+        "air_date": "03-22-2009",
+        "summary": "Walt and Jesse try to come up with alibis for their disappearances.",
+        "episode": "3",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 11,
+        "title": "Down",
+        "season": "2",
+        "air_date": "03-29-2009",
+        "summary": "Skyler keeps mysteriously leaving without talking to Walt. Jesse's parents throw him out of his own house.",
+        "episode": "4",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 12,
+        "title": "Breakage",
+        "season": "2",
+        "air_date": "04-05-2009",
+        "summary": "Walt and Jesse decide to start their own little empire with the help of Jesse's friends: Skinny Pete, Combo, and Badger. Meanwhile, Hank tries to pull himself together after his encounter with Tuco.",
+        "episode": "5",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 13,
+        "title": "Peekaboo",
+        "season": "2",
+        "air_date": "04-12-2009",
+        "summary": "After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.",
+        "episode": "6",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 14,
+        "title": "Negro y Azul",
+        "season": "2",
+        "air_date": "04-19-2009",
+        "summary": "Rumor is spreading that Jesse killed the man that ripped Skinny Pete off. Walt uses this to his advantage on expanding their territory. Meanwhile, Hank has been promoted to the El Paso office. But it's not all he hoped it would be.",
+        "episode": "7",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 15,
+        "title": "Better Call Saul",
+        "season": "2",
+        "air_date": "04-26-2009",
+        "summary": "Badger is caught by the DEA. Walt and Jesse hire the best criminal lawyer in town, Saul Goodman.",
+        "episode": "8",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 16,
+        "title": "4 Days Out",
+        "season": "2",
+        "air_date": "05-03-2009",
+        "summary": "Walt and Jesse become stranded out in the middle of the desert after cooking more crystal.",
+        "episode": "9",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 17,
+        "title": "Over",
+        "season": "2",
+        "air_date": "05-10-2009",
+        "summary": "Walt's cancer has greatly improved. Time to celebrate. Meanwhile Jesse tries to meet his new girlfriend's father.",
+        "episode": "10",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 18,
+        "title": "Mandala",
+        "season": "2",
+        "air_date": "05-17-2009",
+        "summary": "Walt and Jesse's little empire begins to crumble. Saul tries to set them up with a mysterious distributor.",
+        "episode": "11",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 19,
+        "title": "Phoenix",
+        "season": "2",
+        "air_date": "05-24-2009",
+        "summary": "Walt and Skyler have a baby girl. Now that Jesse is hooked on heroin, Walt refuses to give him his money until he gets clean. Meanwhile, as an excuse for his money, Walt decides to donate the money to himself through his son's new website.",
+        "episode": "12",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 20,
+        "title": "ABQ",
+        "season": "2",
+        "air_date": "05-31-2009",
+        "summary": "Walt's lies have pushed Skyler to her limit. She leaves with the kids. Meanwhile, Jesse blames himself for Jane's death and goes into rehab.",
+        "episode": "13",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 21,
+        "title": "No Más",
+        "season": "3",
+        "air_date": "03-21-2010",
+        "summary": "Skyler goes through with her plans to divorce Walt. Jesse finishes rehab.",
+        "episode": "1",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 22,
+        "title": "Caballo sin Nombre",
+        "season": "3",
+        "air_date": "03-28-2010",
+        "summary": "Walter, Jr. is having a rough time accepting his parents' separation. Jesse buys his old house from his parents. Meanwhile, two mysterious men have come into town looking for Walt.",
+        "episode": "2",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 23,
+        "title": "I.F.T.",
+        "season": "3",
+        "air_date": "04-04-2010",
+        "summary": "Walt has moved back into the house without Skyler's consent. Now she can't get him out. Meanwhile, Jesse continues to cope with Jane's death.",
+        "episode": "3",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 24,
+        "title": "Green Light",
+        "season": "3",
+        "air_date": "04-11-2010",
+        "summary": "Walt's world crumbles even more after finding out that Skyler is cheating on him. Jesse tries to set up a meeting with Gus to try and sell his own version of the blue meth. Meanwhile, Hank is growing obsessed with finding Heisenberg.",
+        "episode": "4",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 25,
+        "title": "Más",
+        "season": "3",
+        "air_date": "04-18-2010",
+        "summary": "Gus tries to get Walt back in the business by offering him three million dollars and a brand new lab. Jesse is furious that Walt received half of the money for his blue meth. Hank tries to track down the RV meth lab.",
+        "episode": "5",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 26,
+        "title": "Sunset",
+        "season": "3",
+        "air_date": "04-25-2010",
+        "summary": "Heisenberg's organized and practical assistant Gale greatly aids his work in Gus's lab. Hank finally tracks the RV back to Jesse, as a concerned Walt finds any way to erase the evidence.",
+        "episode": "6",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 27,
+        "title": "One Minute",
+        "season": "3",
+        "air_date": "05-02-2010",
+        "summary": "Jesse ends up in the hospital after getting beaten up by Hank. Now he is threatening to press charges against the DEA. To stop him, Walt decides to bring Jesse on as his partner, once again.",
+        "episode": "7",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 28,
+        "title": "I See You",
+        "season": "3",
+        "air_date": "05-09-2010",
+        "summary": "Hank ends up in the hospital after being attacked by Tuco's cousins. Walt spends too much time by his family's side when he should be cooking meth.",
+        "episode": "8",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 29,
+        "title": "Kafkaesque",
+        "season": "3",
+        "air_date": "05-16-2010",
+        "summary": "Skyler hatches a plan as Hank's hospital bills stack up. Meanwhile, Walt and Gus come to a better understanding as Jesse, looking for more independence, pursues a new opportunity.",
+        "episode": "9",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 30,
+        "title": "Fly",
+        "season": "3",
+        "air_date": "05-23-2010",
+        "summary": "There is a fly loose in the lab. Walt and Jesse must do whatever they can to kill it before it contaminates the meth.",
+        "episode": "10",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 31,
+        "title": "Abiquiu",
+        "season": "3",
+        "air_date": "05-30-2010",
+        "summary": "Skyler gets more involved in Walt's business, much to his chagrin, as Hank struggles with his recovery. Meanwhile, Jesse takes an active role in his new enterprise, leading him to a startling discovery.",
+        "episode": "11",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 32,
+        "title": "Half Measures",
+        "season": "3",
+        "air_date": "06-06-2010",
+        "summary": "Against Walt's advice, Jesse lashes out. Fearing for Jesse's safety, Walt takes drastic action to intervene. Meanwhile a tragic event leads to a shocking confrontation.",
+        "episode": "12",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 33,
+        "title": "Full Measure",
+        "season": "3",
+        "air_date": "06-13-2010",
+        "summary": "Jesse has disappeared and Walt is in big trouble with Gus. So Gus rehires Gale to learn from Walt's cooking so that they can dispose of Walt once and for all.",
+        "episode": "13",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 34,
+        "title": "Box Cutter",
+        "season": "4",
+        "air_date": "07-17-2011",
+        "summary": "Walt and Jesse are held captive for Gus, after Gale's death. Meanwhile, Skyler tries to find out what happened to Walt.",
+        "episode": "1",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 35,
+        "title": "Thirty-Eight Snub",
+        "season": "4",
+        "air_date": "07-24-2011",
+        "summary": "Walt attempts to form a new alliance as he plans his next move. Meanwhile Skyler pushes Walt towards a business opportunity, in hopes of protecting the family.",
+        "episode": "2",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 36,
+        "title": "Open House",
+        "season": "4",
+        "air_date": "07-31-2011",
+        "summary": "While Walt worries about Gus's interference and Jesse's increasingly fragile state of mind, Skyler steps up the pressure to get what she wants.",
+        "episode": "3",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 37,
+        "title": "Bullet Points",
+        "season": "4",
+        "air_date": "08-07-2011",
+        "summary": "As Skyler concocts an elaborate story to explain the Whites' finances, a worried Walt discovers that Hank has begun a new investigation.",
+        "episode": "4",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 38,
+        "title": "Shotgun",
+        "season": "4",
+        "air_date": "08-14-2011",
+        "summary": "Jesse rides shotgun with Mike on a perilous run of pickups, prompting Walt to worry that his partner is about to be killed.",
+        "episode": "5",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 39,
+        "title": "Cornered",
+        "season": "4",
+        "air_date": "08-21-2011",
+        "summary": "Skyler adopts an aloof approach when she suspects that Walt isn't telling her the truth. Meanwhile, Jesse proves his worth to Mike and Gus.",
+        "episode": "6",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 40,
+        "title": "Problem Dog",
+        "season": "4",
+        "air_date": "08-28-2011",
+        "summary": "Skyler looks to continue her family's trend of appearing poverty-stricken by forcing Walt to return the car he bought. A concerned Walt chauffeurs Hank to Los Pollos Hermanos, and the articulate yet immobile DEA agent collects prints.",
+        "episode": "7",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 41,
+        "title": "Hermanos",
+        "season": "4",
+        "air_date": "09-04-2011",
+        "summary": "When Hank produces evidence that Gus is Albuquerque's crystal meth kingpin, Walt worries that he and Jesse will be killed to protect their boss.",
+        "episode": "8",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 42,
+        "title": "Bug",
+        "season": "4",
+        "air_date": "09-11-2011",
+        "summary": "While Walt tries to subvert Hank's probe into the Albuquerque meth scene, a deadly warning forces Gus to consider a deal with the cartel.",
+        "episode": "9",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 43,
+        "title": "Salud",
+        "season": "4",
+        "air_date": "09-18-2011",
+        "summary": "Jesse, Gus, and Mike fly down to Mexico, and Jesse cooks the blue meth for the cartel. Walt misses his son's 16th birthday after his fight with Jesse.",
+        "episode": "10",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 44,
+        "title": "Crawl Space",
+        "season": "4",
+        "air_date": "09-25-2011",
+        "summary": "Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.",
+        "episode": "11",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 45,
+        "title": "End Times",
+        "season": "4",
+        "air_date": "10-02-2011",
+        "summary": "The DEA is putting Hank and his family in protective custody; however, Walt refuses and awaits his fate in his house. Meanwhile, Brock has fallen terribly ill and Jesse suspects Walt may be behind it.",
+        "episode": "12",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 46,
+        "title": "Face Off",
+        "season": "4",
+        "air_date": "10-09-2011",
+        "summary": "Jesse is brought to the FBI for questioning on his knowledge of ricin. In a last effort to kill Gus, Walt must ask for help from an old enemy.",
+        "episode": "13",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 47,
+        "title": "Live Free or Die",
+        "season": "5",
+        "air_date": "07-15-2012",
+        "summary": "Now that Gus is dead, Walt, Jesse, and Mike work to cover their tracks. Skyler panics when Ted Beneke wakes up.",
+        "episode": "1",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 48,
+        "title": "Madrigal",
+        "season": "5",
+        "air_date": "07-22-2012",
+        "summary": "Walt and Jesse seek out an unlikely partner for a new business venture. The DEA follows up new leads in its investigation.",
+        "episode": "2",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 49,
+        "title": "Hazard Pay",
+        "season": "5",
+        "air_date": "07-29-2012",
+        "summary": "The guys put a business plan into action; Walt confesses to Marie.",
+        "episode": "3",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 50,
+        "title": "Fifty-One",
+        "season": "5",
+        "air_date": "08-05-2012",
+        "summary": "It's Walt's 51st birthday. His return to the drug business causes Skyler to go into depression.",
+        "episode": "4",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 51,
+        "title": "Dead Freight",
+        "season": "5",
+        "air_date": "08-12-2012",
+        "summary": "Walter White's domestic life continues to deteriorate; at the same time, his growing business venture aims to steal a train car chock full of methylamine.",
+        "episode": "5",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 52,
+        "title": "Buyout",
+        "season": "5",
+        "air_date": "08-19-2012",
+        "summary": "In the aftermath of the train heist, Jesse and Mike decide to quit the business, leaving Walt to handle things on his own. Mike is being followed by the DEA.",
+        "episode": "6",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 53,
+        "title": "Say My Name",
+        "season": "5",
+        "air_date": "08-26-2012",
+        "summary": "Mike and Jesse are out. Now Walt has to handle things on his own. Hank finally finds a rat in Mike's gang.",
+        "episode": "7",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 54,
+        "title": "Gliding Over All",
+        "season": "5",
+        "air_date": "09-02-2012",
+        "summary": "Walt expands his business overseas, and the money is pouring in.",
+        "episode": "8",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 55,
+        "title": "Blood Money",
+        "season": "5",
+        "air_date": "08-11-2013",
+        "summary": "Walt is out of the meth business and trying to move on with his life. Jesse tries to get rid of his money. Hank now knows that Walt is the famous Heisenberg.",
+        "episode": "9",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 56,
+        "title": "Buried",
+        "season": "5",
+        "air_date": "08-18-2013",
+        "summary": "Hank is determined to bring down Walt. Walt scrambles to hide evidence before Hank gets to it, and Skyler tries to stop Hank and Marie from taking away the kids.",
+        "episode": "10",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 57,
+        "title": "Confessions",
+        "season": "5",
+        "air_date": "08-25-2013",
+        "summary": "Walt makes his next move against Hank, putting Hank in a tough position. Hank confronts Jesse and attempts to turn him against Walt, and Jesse decides it's time to move on. Meanwhile, Todd has taken over the business.",
+        "episode": "11",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 58,
+        "title": "Rabid Dog",
+        "season": "5",
+        "air_date": "09-01-2013",
+        "summary": "Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse makes plans to take down Walt.",
+        "episode": "12",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 59,
+        "title": "To'hajiilee",
+        "season": "5",
+        "air_date": "09-08-2013",
+        "summary": "Jesse and Hank come up with an idea to take Walt down. Walt hires Todd's uncle to kill Jesse.",
+        "episode": "13",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 60,
+        "title": "Ozymandias",
+        "season": "5",
+        "air_date": "09-15-2013",
+        "summary": "Walt goes on the run. Jesse is taken hostage. Marie convinces Skyler to tell Walter, Jr. the truth.",
+        "episode": "14",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 61,
+        "title": "Granite State",
+        "season": "5",
+        "air_date": "09-22-2013",
+        "summary": "Walt struggles as he adapts to aspects of his new identity. Jesse plans an escape against Jack and his crew.",
+        "episode": "15",
+        "series": "Breaking Bad"
+    },
+    {
+        "episode_id": 62,
+        "title": "Felina",
+        "season": "5",
+        "air_date": "09-29-2013",
+        "summary": "Walter White makes one last attempt to secure his family's future, while also visiting some old enemies, during his final return to Albuquerque.",
+        "episode": "16",
+        "series": "Breaking Bad"
+    }
+]
