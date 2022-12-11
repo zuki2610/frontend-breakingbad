@@ -14,10 +14,10 @@ export default function Deaths() {
     showData();
   }, []);
   return (
-    <div className="layoutpage custom text-light">
-      <div className="deaths text-light">
+    <div className="container custom text-light">
+      <div className="deaths pt-2 text-light">
         {data.map((death) => (
-          <div key={death.death_id}>
+          <div key={death.death_id} className="row">
             <p>Death id: {death.death_id}</p>
             <p>Death: {death.death}</p>
             <p>Cause: {death.cause}</p>
@@ -32,3 +32,4 @@ export default function Deaths() {
     </div>
   );
 }
+
